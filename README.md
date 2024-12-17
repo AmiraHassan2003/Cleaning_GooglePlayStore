@@ -1,4 +1,4 @@
-# Cleaning & Processing on GooglePlayStore data
+# Play Store apps data cleaning and preprocessing
 
 
 ## Description
