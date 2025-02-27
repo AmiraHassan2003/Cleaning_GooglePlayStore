@@ -17,6 +17,11 @@ This project analyzes Google Play Store data to gain insights into app ratings, 
 - Outlier detection and log transformations
 
 
+## Visualization
+- ![heatmap](https://github.com/user-attachments/assets/3141537b-a0fe-46b3-99c8-0aea40ae78db)
+
+
+
 ## Technologies Used
 - Python (pandas, numpy, seaborn, matplotlib)
 - Jupyter Notebook
